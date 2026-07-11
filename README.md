@@ -168,3 +168,75 @@
 <img src="https://komarev.com/ghpvc/?username=Aman933554&label=Profile%20Views&color=0e75b6&style=flat"/>
 
 </div>
+
+
+
+
+
+
+---
+
+# 💼 Current Focus
+
+```text
+🚀 Building Full Stack Web Applications
+📚 Solving Data Structures & Algorithms in C++
+🌱 Learning Advanced Backend Development
+🎯 Preparing for Software Engineering Internships
+```
+
+---
+
+# 🎯 Currently Learning
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,cpp,git,github"/>
+
+</p>
+
+---
+
+# 📌 Developer Info
+
+```yaml
+Name: Aman Sharma
+Role: Software Engineer
+Location: India
+
+Languages:
+  - C++
+  - JavaScript
+
+Frontend:
+  - React
+  - HTML
+  - CSS
+  - Tailwind CSS
+
+Backend:
+  - Node.js
+  - Express.js
+
+Database:
+  - MongoDB
+
+Interests:
+  - DSA
+  - Full Stack Development
+  - Open Source
+
+Status:
+  - Open to Internship
+```
+
+---
+
+# ⚡ Fun Facts
+
+- 💡 I enjoy solving coding problems.
+- 🚀 I love building real-world web applications.
+- 📚 Learning something new every day.
+- 🎯 Goal: Become a Software Engineer.
+
+---

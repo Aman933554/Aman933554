@@ -2,9 +2,7 @@
 
 
 
-<p align="center">
-  <img src="./git.png" alt="Aman Sharma Banner" width="100%" />
-</p>
+
 
 
 
